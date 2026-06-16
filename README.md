@@ -5,6 +5,8 @@
 [![MCP Server](https://img.shields.io/badge/Backend-MCP_sequential--thinking-36c)](https://modelcontextprotocol.io)
 [![Skill Format: SKILL.md](https://img.shields.io/badge/Format-SKILL.md-success)](https://agentskills.io/specification)
 [![Hermes Tap](https://img.shields.io/badge/Hermes_Tap-installable-orange)](https://hermes-agent.dev)
+[![skills.sh](https://img.shields.io/badge/skills.sh-installable-orange)](https://skills.sh)
+[![skills.sh](https://skills.sh/b/EggProject/hermes-skill-sequential-thinking)](https://skills.sh/EggProject/hermes-skill-sequential-thinking)
 [![English](https://img.shields.io/badge/Docs-English-blue)](README.md)
 [![Magyar](https://img.shields.io/badge/Docs-Magyar-green)](README.hu.md)
 
